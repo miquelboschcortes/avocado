@@ -11,6 +11,7 @@
 		02E8C0202A8FC5AF00FE8D37 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02E8C01F2A8FC5AF00FE8D37 /* ContentView.swift */; };
 		02E8C0222A8FC5B000FE8D37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02E8C0212A8FC5B000FE8D37 /* Assets.xcassets */; };
 		02E8C0252A8FC5B000FE8D37 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 02E8C0242A8FC5B000FE8D37 /* Preview Assets.xcassets */; };
+		02E8C02C2A8FCB3200FE8D37 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02E8C02B2A8FCB3200FE8D37 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		02E8C01F2A8FC5AF00FE8D37 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		02E8C0212A8FC5B000FE8D37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		02E8C0242A8FC5B000FE8D37 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		02E8C02B2A8FCB3200FE8D37 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				02E8C01F2A8FC5AF00FE8D37 /* ContentView.swift */,
 				02E8C0212A8FC5B000FE8D37 /* Assets.xcassets */,
 				02E8C0232A8FC5B000FE8D37 /* Preview Content */,
+				02E8C02B2A8FCB3200FE8D37 /* Launch Screen.storyboard */,
 			);
 			path = avocado;
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				02E8C02C2A8FCB3200FE8D37 /* Launch Screen.storyboard in Resources */,
 				02E8C0252A8FC5B000FE8D37 /* Preview Assets.xcassets in Resources */,
 				02E8C0222A8FC5B000FE8D37 /* Assets.xcassets in Resources */,
 			);
