@@ -8,6 +8,7 @@
 import SwiftUI
 
 struct AppView: View {
+    
     var body: some View {
         
         TabView {
@@ -38,7 +39,7 @@ struct AppView: View {
             
         }
         .edgesIgnoringSafeArea(.top)
-        .tint(.primary)
+        .accentColor(.primary)
         
     }
 }
