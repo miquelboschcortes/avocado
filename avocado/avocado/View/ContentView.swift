@@ -50,7 +50,7 @@ struct ContentView: View {
                         }
                     }
                     .padding(.vertical)
-                    .padding(.leading, 16)
+                    .padding(.leading, 60)
                     .padding(.trailing, 20)
                 }
                 
